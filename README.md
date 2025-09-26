@@ -6,6 +6,7 @@ Kurze Beschreibung des Projektes:
 Einführung in Github mit git
 
 Readme geändert und daten wieder reingepushed
+Jetzt möchte ich die Online Änderung auch lokal haben
 
 Entwicklungsplatform:
 
