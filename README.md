@@ -5,6 +5,8 @@ Kurze Beschreibung des Projektes:
 
 Einführung in Github mit git
 
+Readme geändert und daten wieder reingepushed
+
 Entwicklungsplatform:
 
 Windows 11
